@@ -2,4 +2,4 @@
 
     <PropertyGroup>
         <OutputType>Exe</OutputType>
-        <TargetFrame
+        <TargetFramework>ne
