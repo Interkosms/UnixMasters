@@ -4,4 +4,5 @@
         <OutputType>Exe</OutputType>
         <TargetFramework>net7.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
-        <Nullable>enable</Nulla
+        <Nullable>enable</Nullable>
+   
