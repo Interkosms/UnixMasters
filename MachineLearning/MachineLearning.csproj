@@ -8,4 +8,4 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="Microsoft.ML" Ve
+      <PackageReference Include="Microsoft.ML" Version="
