@@ -8,4 +8,5 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="Microsoft.ML" Version="2.0
+      <PackageReference Include="Microsoft.ML" Version="2.0.0" />
+ 
