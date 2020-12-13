@@ -14,4 +14,4 @@
 
     <ItemGroup>
       <None Update="yelp_labelled.txt">
-        <CopyToOutputDirectory>PreserveNewes
+        <CopyToOutputDirectory>PreserveNewest</
