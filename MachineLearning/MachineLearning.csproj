@@ -16,4 +16,6 @@
       <None Update="yelp_labelled.txt">
         <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
       </None>
-    </ItemGro
+    </ItemGroup>
+
+<
