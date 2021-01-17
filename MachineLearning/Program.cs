@@ -1,4 +1,4 @@
 ﻿using Microsoft.ML;
 using Microsoft.ML.Data;
 using Spectre.Console;
-using Console = Spe
+using Console = Spectre.C
