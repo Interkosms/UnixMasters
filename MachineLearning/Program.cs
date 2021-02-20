@@ -3,4 +3,4 @@ using Microsoft.ML.Data;
 using Spectre.Console;
 using Console = Spectre.Console.AnsiConsole;
 
-var c
+var ctx =
