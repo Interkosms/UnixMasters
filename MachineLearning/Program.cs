@@ -6,4 +6,5 @@ using Console = Spectre.Console.AnsiConsole;
 var ctx = new MLContext();
 
 // load data
-var dataView = ctx.Dat
+var dataView = ctx.Data
+ 
