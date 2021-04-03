@@ -7,4 +7,4 @@ var ctx = new MLContext();
 
 // load data
 var dataView = ctx.Data
-    .LoadFromTextFile<SentimentData>("yelp_labelled
+    .LoadFromTextFile<SentimentData>("yelp_labelled.t
