@@ -10,3 +10,4 @@ var dataView = ctx.Data
     .LoadFromTextFile<SentimentData>("yelp_labelled.txt");
 
 // split data into testing set
+var spl
