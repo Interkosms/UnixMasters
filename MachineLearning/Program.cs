@@ -9,4 +9,4 @@ var ctx = new MLContext();
 var dataView = ctx.Data
     .LoadFromTextFile<SentimentData>("yelp_labelled.txt");
 
-// split data into testi
+// split data into testing set
