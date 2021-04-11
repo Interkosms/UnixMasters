@@ -11,4 +11,4 @@ var dataView = ctx.Data
 
 // split data into testing set
 var splitDataView = ctx.Data
-    .
+    .TrainT
