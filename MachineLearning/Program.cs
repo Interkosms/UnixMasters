@@ -14,4 +14,4 @@ var splitDataView = ctx.Data
     .TrainTestSplit(dataView, testFraction: 0.2);
 
 // Build model
-var estim
+var estimator 
