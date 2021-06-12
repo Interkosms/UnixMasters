@@ -17,4 +17,4 @@ var splitDataView = ctx.Data
 var estimator = ctx.Transforms.Text
     .FeaturizeText(
         outputColumnName: "Features",
-        inputColumnName: nameof(SentimentDa
+        inputColumnName: nameof(SentimentData.T
