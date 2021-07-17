@@ -18,4 +18,4 @@ var estimator = ctx.Transforms.Text
     .FeaturizeText(
         outputColumnName: "Features",
         inputColumnName: nameof(SentimentData.Text)
-    ).Append(ctx.BinaryClassification.Trainers.SdcaLogisticRegression(featureColumnName: "Fe
+    ).Append(ctx.BinaryClassification.Trainers.SdcaLogisticRegression(featureColumnName: "Featur
