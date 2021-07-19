@@ -21,4 +21,4 @@ var estimator = ctx.Transforms.Text
     ).Append(ctx.BinaryClassification.Trainers.SdcaLogisticRegression(featureColumnName: "Features"));
 
 // Train model
-ITransformer model = de
+ITransformer model = defau
