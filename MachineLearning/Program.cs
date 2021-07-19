@@ -20,4 +20,4 @@ var estimator = ctx.Transforms.Text
         inputColumnName: nameof(SentimentData.Text)
     ).Append(ctx.BinaryClassification.Trainers.SdcaLogisticRegression(featureColumnName: "Features"));
 
-// Train
+// Train mod
