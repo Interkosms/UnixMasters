@@ -23,4 +23,4 @@ var estimator = ctx.Transforms.Text
 // Train model
 ITransformer model = default!;
 
-var rule = new Ru
+var rule = new Rule("Cre
