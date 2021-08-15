@@ -24,3 +24,4 @@ var estimator = ctx.Transforms.Text
 ITransformer model = default!;
 
 var rule = new Rule("Create and Train Model");
+Cons
