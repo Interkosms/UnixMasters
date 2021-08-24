@@ -26,4 +26,4 @@ ITransformer model = default!;
 var rule = new Rule("Create and Train Model");
 Console
     .Live(rule)
-    .Star
+    .Start(c
