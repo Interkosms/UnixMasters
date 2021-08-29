@@ -27,4 +27,5 @@ var rule = new Rule("Create and Train Model");
 Console
     .Live(rule)
     .Start(console =>
-   
+    {
+  
