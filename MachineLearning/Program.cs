@@ -28,4 +28,4 @@ Console
     .Live(rule)
     .Start(console =>
     {
-        // training h
+        // training happen
