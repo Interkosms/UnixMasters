@@ -29,4 +29,4 @@ Console
     .Start(console =>
     {
         // training happens here
-        mod
+        model = es
