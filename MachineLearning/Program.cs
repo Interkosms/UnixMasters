@@ -29,4 +29,4 @@ Console
     .Start(console =>
     {
         // training happens here
-        model = es
+        model = estimator.
