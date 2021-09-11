@@ -29,4 +29,4 @@ Console
     .Start(console =>
     {
         // training happens here
-        model = estimator.Fit(s
+        model = estimator.Fit(splitDa
