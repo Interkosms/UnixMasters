@@ -29,4 +29,4 @@ Console
     .Start(console =>
     {
         // training happens here
-        model = estimator.Fit(splitDataView.Tra
+        model = estimator.Fit(splitDataView.Train
