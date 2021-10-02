@@ -30,4 +30,4 @@ Console
     {
         // training happens here
         model = estimator.Fit(splitDataView.TrainSet);
-        var predictions = model.Transform(splitDataView.TestS
+        var predictions = model.Transform(splitDataView.TestSet);
