@@ -32,4 +32,4 @@ Console
         model = estimator.Fit(splitDataView.TrainSet);
         var predictions = model.Transform(splitDataView.TestSet);
 
-        rule.Title = "🏁 
+        rule.Title = "🏁 Train
