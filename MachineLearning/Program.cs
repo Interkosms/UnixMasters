@@ -33,4 +33,4 @@ Console
         var predictions = model.Transform(splitDataView.TestSet);
 
         rule.Title = "🏁 Training Complete, Evaluating Accuracy.";
-        console
+        console.Refre
