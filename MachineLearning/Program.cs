@@ -35,4 +35,4 @@ Console
         rule.Title = "🏁 Training Complete, Evaluating Accuracy.";
         console.Refresh();
 
-        // evaluate the accuracy o
+        // evaluate the accuracy of o
