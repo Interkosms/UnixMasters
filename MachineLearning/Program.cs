@@ -36,4 +36,4 @@ Console
         console.Refresh();
 
         // evaluate the accuracy of our model
-      
+        var
