@@ -38,4 +38,4 @@ Console
         // evaluate the accuracy of our model
         var metrics = ctx.BinaryClassification.Evaluate(predictions);
 
-        var table = new 
+        var table = new Table(
