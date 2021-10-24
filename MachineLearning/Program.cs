@@ -36,4 +36,6 @@ Console
         console.Refresh();
 
         // evaluate the accuracy of our model
-        var metrics = ctx.BinaryClassification.Evaluate(prediction
+        var metrics = ctx.BinaryClassification.Evaluate(predictions);
+
+    
