@@ -39,4 +39,4 @@ Console
         var metrics = ctx.BinaryClassification.Evaluate(predictions);
 
         var table = new Table()
-            .Minim
+            .MinimalBord
