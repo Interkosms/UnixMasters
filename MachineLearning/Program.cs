@@ -40,3 +40,4 @@ Console
 
         var table = new Table()
             .MinimalBorder()
+    
