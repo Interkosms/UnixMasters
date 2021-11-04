@@ -40,4 +40,4 @@ Console
 
         var table = new Table()
             .MinimalBorder()
-            .Tit
+            .Title("💯 Mod
