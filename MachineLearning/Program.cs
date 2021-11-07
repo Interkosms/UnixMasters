@@ -40,4 +40,4 @@ Console
 
         var table = new Table()
             .MinimalBorder()
-            .Title("💯 Model 
+            .Title("💯 Model Accu
