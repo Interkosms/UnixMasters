@@ -40,4 +40,5 @@ Console
 
         var table = new Table()
             .MinimalBorder()
-            .Title("💯 Model Accu
+            .Title("💯 Model Accuracy");
+ 
