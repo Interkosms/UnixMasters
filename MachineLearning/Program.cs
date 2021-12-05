@@ -41,4 +41,4 @@ Console
         var table = new Table()
             .MinimalBorder()
             .Title("💯 Model Accuracy");
-        table.AddColumns("Acc
+        table.AddColumns("Accuracy
