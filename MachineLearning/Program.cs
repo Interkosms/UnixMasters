@@ -42,4 +42,4 @@ Console
             .MinimalBorder()
             .Title("💯 Model Accuracy");
         table.AddColumns("Accuracy", "Auc", "F1Score");
-        table.AddRow($"{metrics.Accuracy:P2}", $"{metrics.AreaUnder
+        table.AddRow($"{metrics.Accuracy:P2}", $"{metrics.AreaUnderRocC
