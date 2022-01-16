@@ -43,3 +43,5 @@ Console
             .Title("💯 Model Accuracy");
         table.AddColumns("Accuracy", "Auc", "F1Score");
         table.AddRow($"{metrics.Accuracy:P2}", $"{metrics.AreaUnderRocCurve:P2}", $"{metrics.F1Score:P2}");
+
+      
