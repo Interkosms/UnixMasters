@@ -45,4 +45,4 @@ Console
         table.AddRow($"{metrics.Accuracy:P2}", $"{metrics.AreaUnderRocCurve:P2}", $"{metrics.F1Score:P2}");
 
         console.UpdateTarget(table);
-        console.Refresh(
+        console.Refresh();
