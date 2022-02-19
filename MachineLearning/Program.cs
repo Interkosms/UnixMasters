@@ -46,4 +46,4 @@ Console
 
         console.UpdateTarget(table);
         console.Refresh();
-   
+    });
