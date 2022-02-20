@@ -48,4 +48,4 @@ Console
         console.Refresh();
     });
 
-whil
+while (true)
