@@ -50,4 +50,4 @@ Console
 
 while (true)
 {
-   
+    var te
