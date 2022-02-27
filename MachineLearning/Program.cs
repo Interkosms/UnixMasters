@@ -50,4 +50,4 @@ Console
 
 while (true)
 {
-    var text = AnsiConsole
+    var text = AnsiConsole.As
