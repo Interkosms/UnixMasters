@@ -50,4 +50,4 @@ Console
 
 while (true)
 {
-    var text = AnsiConsole.As
+    var text = AnsiConsole.Ask<stri
