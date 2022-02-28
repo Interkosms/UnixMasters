@@ -50,4 +50,4 @@ Console
 
 while (true)
 {
-    var text = AnsiConsole.Ask<stri
+    var text = AnsiConsole.Ask<string>("W
