@@ -50,4 +50,4 @@ Console
 
 while (true)
 {
-    var text = AnsiConsole.Ask<string>("W
+    var text = AnsiConsole.Ask<string>("What's y
