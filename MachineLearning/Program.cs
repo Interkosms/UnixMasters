@@ -50,4 +50,5 @@ Console
 
 while (true)
 {
-    var text = AnsiConsole.Ask<string>("What's your [green]review text[/]?")
+    var text = AnsiConsole.Ask<string>("What's your [green]review text[/]?");
+ 
