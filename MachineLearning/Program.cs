@@ -51,4 +51,4 @@ Console
 while (true)
 {
     var text = AnsiConsole.Ask<string>("What's your [green]review text[/]?");
-    var engine = ctx.Mo
+    var engine = ctx.Model.C
