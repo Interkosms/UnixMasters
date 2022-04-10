@@ -51,4 +51,4 @@ Console
 while (true)
 {
     var text = AnsiConsole.Ask<string>("What's your [green]review text[/]?");
-    var engine = ctx.Model.CreatePredictionEngine<SentimentData, SentimentPred
+    var engine = ctx.Model.CreatePredictionEngine<SentimentData, SentimentPredictio
