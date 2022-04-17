@@ -53,4 +53,4 @@ while (true)
     var text = AnsiConsole.Ask<string>("What's your [green]review text[/]?");
     var engine = ctx.Model.CreatePredictionEngine<SentimentData, SentimentPrediction>(model);
 
-    var input = new Sent
+    var input = new SentimentDa
