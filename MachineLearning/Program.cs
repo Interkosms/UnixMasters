@@ -54,4 +54,5 @@ while (true)
     var engine = ctx.Model.CreatePredictionEngine<SentimentData, SentimentPrediction>(model);
 
     var input = new SentimentData { Text = text };
-    var result = engine.Predict(input
+    var result = engine.Predict(input);
+ 
