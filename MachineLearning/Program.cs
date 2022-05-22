@@ -56,4 +56,4 @@ while (true)
     var input = new SentimentData { Text = text };
     var result = engine.Predict(input);
     var style = result.Prediction
-        ? 
+        ? (col
