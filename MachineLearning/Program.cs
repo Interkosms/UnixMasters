@@ -57,4 +57,4 @@ while (true)
     var result = engine.Predict(input);
     var style = result.Prediction
         ? (color: "green", emoji: "👍")
-        : (
+        : (colo
