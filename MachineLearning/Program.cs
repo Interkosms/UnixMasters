@@ -58,3 +58,5 @@ while (true)
     var style = result.Prediction
         ? (color: "green", emoji: "👍")
         : (color: "red", emoji: "👎");
+
+    C
