@@ -59,4 +59,4 @@ while (true)
         ? (color: "green", emoji: "👍")
         : (color: "red", emoji: "👎");
 
-    Console.Ma
+    Console.Mark
