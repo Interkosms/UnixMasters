@@ -59,4 +59,4 @@ while (true)
         ? (color: "green", emoji: "👍")
         : (color: "red", emoji: "👎");
 
-    Console.MarkupLine($"{style.emoji} [{style
+    Console.MarkupLine($"{style.emoji} [{style.colo
