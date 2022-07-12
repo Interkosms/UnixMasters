@@ -60,3 +60,6 @@ while (true)
         : (color: "red", emoji: "👎");
 
     Console.MarkupLine($"{style.emoji} [{style.color}]\"{text}\" ({result.Probability:P00})[/] ");
+}
+
+cla
