@@ -62,4 +62,4 @@ while (true)
     Console.MarkupLine($"{style.emoji} [{style.color}]\"{text}\" ({result.Probability:P00})[/] ");
 }
 
-class Sentim
+class SentimentData
