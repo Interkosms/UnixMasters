@@ -64,4 +64,4 @@ while (true)
 
 class SentimentData
 {
-    [L
+    [LoadColum
