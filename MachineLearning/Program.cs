@@ -65,3 +65,4 @@ while (true)
 class SentimentData
 {
     [LoadColumn(0)] public string? Text;
+  
