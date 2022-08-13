@@ -68,4 +68,4 @@ class SentimentData
     [LoadColumn(1), ColumnName("Label")] public bool Sentiment;
 }
 
-class SentimentPrediction : Sent
+class SentimentPrediction : SentimentD
