@@ -69,3 +69,5 @@ class SentimentData
 }
 
 class SentimentPrediction : SentimentData
+{
+  
