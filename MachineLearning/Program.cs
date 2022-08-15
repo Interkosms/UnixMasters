@@ -70,4 +70,4 @@ class SentimentData
 
 class SentimentPrediction : SentimentData
 {
-    [Co
+    [Column
