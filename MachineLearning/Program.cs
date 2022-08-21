@@ -70,4 +70,4 @@ class SentimentData
 
 class SentimentPrediction : SentimentData
 {
-    [ColumnName("PredictedLa
+    [ColumnName("PredictedLabel")]
