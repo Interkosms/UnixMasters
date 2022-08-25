@@ -70,4 +70,4 @@ class SentimentData
 
 class SentimentPrediction : SentimentData
 {
-    [ColumnName("PredictedLabel")] public bool 
+    [ColumnName("PredictedLabel")] public bool Pred
