@@ -166,3 +166,9 @@ Avoid at all cost!	0
 Restaurant is always full but never a wait.	1
 DELICIOUS!!	1
 This place is hands-down one of the best places to eat in the Phoenix metro area.	1
+So don't go there if you are looking for good food...	0
+I've never been treated so bad.	0
+Bacon is hella salty.	1
+We also ordered the spinach and avocado salad; the ingredients were sad and the dressing literally had zero taste.	0
+This really is how Vegas fine dining used to be, right down to the menus handed to the ladies that have no prices listed.	1
+The waitresses are very friendly.	1
