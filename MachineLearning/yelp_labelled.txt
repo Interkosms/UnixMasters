@@ -215,3 +215,5 @@ My friend loved the salmon tartar.	1
 Won't go back.	0
 Extremely Tasty!	1
 Waitress was good though!	1
+Soggy and not good.	0
+The Jamaican mojitos are delicious.	1
