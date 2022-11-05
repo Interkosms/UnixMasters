@@ -443,3 +443,12 @@ I'll take my business dinner dollars elsewhere.	0
 I'd love to go back.	1
 Anyway, this FS restaurant has a wonderful breakfast/lunch.	1
 Nothing special.	0
+Each day of the week they have a different deal and it's all so delicious!	1
+Not to mention the combination of pears, almonds and bacon is a big winner!	1
+Will not be back.	0
+Sauce was tasteless.	0
+The food is delicious and just spicy enough, so be sure to ask for spicier if you prefer it that way.	1
+My ribeye steak was cooked perfectly and had great mesquite flavor.	1
+I don't think we'll be going back anytime soon.	0
+Food was so gooodd.	1
+I am far from a sushi connoisseur but I can definitely tell the difference between good food and bad food and this was certainly bad food.	0
