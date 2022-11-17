@@ -518,3 +518,7 @@ The food is very good for your typical bar food.	1
 it was a drive to get there.	0
 At first glance it is a lovely bakery cafe - nice ambiance, clean, friendly staff.	1
 Anyway, I do not think i will go back there.	0
+Point your finger at any item on the menu, order it and you won't be disappointed.	1
+Oh this is such a thing of beauty, this restaurant.	1
+If you haven't gone here GO NOW!	1
+A greasy, unhealthy meal.	0
