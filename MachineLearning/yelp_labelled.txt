@@ -642,3 +642,7 @@ This is a good joint.	1
 The Macarons here are insanely good.	1
 I'm not eating here!	0
 Our waiter was very attentive, friendly, and informative.	1
+Maybe if they weren't cold they would have been somewhat edible.	0
+This place has a lot of promise but fails to deliver.	0
+Very bad Experience!	0
+What a mistake.	0
