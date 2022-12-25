@@ -641,3 +641,4 @@ After waiting an hour and being seated, I was not in the greatest of moods.	0
 This is a good joint.	1
 The Macarons here are insanely good.	1
 I'm not eating here!	0
+Our waiter was very attentive, friendly, and informative.	1
