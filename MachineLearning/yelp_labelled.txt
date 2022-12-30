@@ -678,3 +678,7 @@ A fantastic neighborhood gem !!!	1
 I can't wait to go back.	1
 The plantains were the worst I've ever tasted.	0
 It's a great place and I highly recommend it.	1
+Service was slow and not attentive.	0
+I gave it 5 stars then, and I'm giving it 5 stars now.	1
+Your staff spends more time talking to themselves than me.	0
+Dessert: Panna Cotta was amazing.	1
