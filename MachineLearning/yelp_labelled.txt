@@ -673,3 +673,8 @@ dont go here.	0
 I promise they won't disappoint.	1
 As a sushi lover avoid this place by all means.	0
 What a great double cheeseburger!	1
+Awesome service and food.	1
+A fantastic neighborhood gem !!!	1
+I can't wait to go back.	1
+The plantains were the worst I've ever tasted.	0
+It's a great place and I highly recommend it.	1
