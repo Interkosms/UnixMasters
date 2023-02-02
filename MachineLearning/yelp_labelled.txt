@@ -801,3 +801,5 @@ Mediocre food.	0
 Once you get inside you'll be impressed with the place.	1
 I'm super pissd.	0
 And service was super friendly.	1
+Why are these sad little vegetables so overcooked?	0
+This place was such a nice surprise!	1
