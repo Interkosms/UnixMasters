@@ -816,3 +816,8 @@ It was packed!!	0
 I love this place.	1
 I can say that the desserts were yummy.	1
 The food was terrible.	0
+The seasonal fruit was fresh white peach puree.	1
+It kept getting worse and worse so now I'm officially done.	0
+This place should honestly be blown up.	0
+But I definitely would not eat here again.	0
+Do not waste your money here!	0
