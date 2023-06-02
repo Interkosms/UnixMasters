@@ -11,3 +11,5 @@ This project uses Spectre.Console to create a repeating input prompt and result 
 
 - The dataset is not very large, about 1000 rows. That means the accuracy is going to be suspect.
 - Training on 1000 records is fast, but you can save the model to disk to avoid retraining on each restart. In this case, you don't get a lot of performance benefits.
+
+## Experience
